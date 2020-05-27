@@ -5,4 +5,4 @@ In this project i have used LSTM to be precise bi-directional LSTM to generate a
 
 Have a good time generating complex grammatical poem lyrics using the A.I :)))
 
-![](images/)
+![](Images/william_shakespeare.jpg)
